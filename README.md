@@ -6,7 +6,7 @@ This project is about predicting the survivals of the titanic dataset using mach
 
 ## Gif file
 
-<img src ="">
+<img src ="images/giphy.webp">
 
 #
 ## Badges
