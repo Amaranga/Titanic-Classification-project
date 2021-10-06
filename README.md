@@ -19,7 +19,7 @@ This project is about predicting the survivals of the titanic dataset using mach
 
 - Download/clone the repository
 - check the data path 
-- run the cells in the jupyter
+- run the Jupyter notebook
 
   
 ## Tech Stack
