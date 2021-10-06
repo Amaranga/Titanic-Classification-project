@@ -28,7 +28,11 @@ This project is about predicting the survivals of the titanic dataset using mach
 - Seaborn
 - NumPy
 - Scikit learn
-  
+
+## Machine llearnign models
+- logistic Regression
+- Random Forest
+
 ## License
 
 Free software: [MIT](https://choosealicense.com/licenses/mit/)
