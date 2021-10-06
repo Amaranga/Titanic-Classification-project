@@ -29,7 +29,7 @@ This project is about predicting the survivals of the titanic dataset using mach
 - NumPy
 - Scikit learn
 
-## Machine llearnign models
+## Machine learning models
 - logistic Regression
 - Random Forest
 
